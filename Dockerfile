@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/redis:v1
+FROM docker.elastic.co/beats/filebeat:8.0.0
